@@ -18,7 +18,8 @@ body {
   font-size: 0;
   height: 100%;
   width: 100%;
-  background-color: black;
+  background-color: hsl(200, 50%, 50%);
+  
 }
 
 .center {
@@ -38,11 +39,16 @@ body {
 }
 
 .box-1 {
-  background-color: gray;
+  background-color: hsl(240, 50%, 50%);
   top: 55%;
   left: 55%;
+  background: #F8D353;
+background: -webkit-linear-gradient(top, #F8D353, #FF5BE8);
+background: -moz-linear-gradient(top, #F8D353, #FF5BE8);
+background: linear-gradient(to bottom, #F8D353, #FF5BE8);
 }
 
 .box-2 {
-  background-color: darkgray;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAATklEQVQoU2O0O3X+PwMDA8MhM0NGEI0LMBKtEJsJD27YgW1R0DgEtwWrdUQrxGYLY8V5iDUdhghrKFOITfcHietgWwReaOL3DNEKsdkCAO7dIAsptVOnAAAAAElFTkSuQmCC)
 }
+  

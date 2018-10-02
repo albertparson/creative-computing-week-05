@@ -12,6 +12,7 @@ body {
   padding: 0;
   width: 100vw;
   height: 100vh;
+  
 }
 
 .content {
@@ -19,6 +20,7 @@ body {
   height: 100%;
   width: 100%;
   background-color: black;
+ 
 }
 
 h1 a {
@@ -44,8 +46,9 @@ h1 a {
 
 .box-1 {
   background-color: gray;
-  top: 55%;
+  top: 45%;
   left: 55%;
+   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAH0lEQVQYV2NkQAX/GZH4/xkYGBhhAmAOSBJEwDkgAQCCrgQEjpMcPgAAAABJRU5ErkJggg==)repeat;
 }
 
 .box-2 {
