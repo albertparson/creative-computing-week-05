@@ -18,11 +18,11 @@ body {
 
 .content {
   font-size: 0;
-  height: 100%;
+  height: 120%;
   width: 100%;
   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAOklEQVQoU43MSwoAMAgD0eT+h7ZYaOlHo7N+DNHL2HAGgBWcyGcKbqTghTL4oQiG6IUpOqFEC5bI4QD8PAoKd9j4XwAAAABJRU5ErkJggg==
     ) repeat;
-  background-size: 20px;
+  background-size: 10px;
 }
 
 .center {
@@ -48,10 +48,10 @@ background: linear-gradient(to bottom, #FFEA19, #F08830);
 
 .box-2 {
   background-color: red;
-  width: 10%;
+  width: 20%;
   height: 25%;
   position: absolute;
-  top: 80%;
+  top: 93%;
   left: 25%;
   
 }
@@ -65,9 +65,30 @@ background: linear-gradient(to bottom, #FFEA19, #F08830);
    position: absolute;
   top: 10%;
   left: 25%;
+  box-shadow: -20px 20px;
+}
 
+.circle {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  border-radius: 50%;
+  position: relative;
+  left: 660px;
+  object-position: 10px 5%;
 
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
 
